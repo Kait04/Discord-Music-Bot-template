@@ -8,3 +8,10 @@ Other command includes:
 8 ball
 Ping
 (more added in the future)
+
+
+Be sure to have already installed:
+youtube-dl
+asyncio
+discord.py
+dotenv
